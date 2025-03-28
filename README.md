@@ -163,8 +163,9 @@ An employee named John Doe, working in a sensitive department, was recently plac
 4. Verify the relevant logs (e.g., network traffic logs, exposure alerts) are being collected in MDE.
 5. Execute the KQL query in the MDE advanced hunting to confirm detection.
 
+<!--
 <b>Note: Powershell Script utilized to generate fake employee data and compress the file can be found [here]()
-
+-->
 ---
 
 ## Created By:
