@@ -1,0 +1,1 @@
+This script generates fake employee data, writes it to a CSV file, compresses it into a zip file. It also installs 7-Zip, logs each step of the process, creates a backup directory, and moves the files to that backup location. This is typically used for simulating data exfiltration in a controlled environment.
