@@ -1,9 +1,5 @@
-## **Data Exfiltration from PIP'd Employee** 
-![image](https://github.com/user-attachments/assets/c85a3561-c4ef-4f1c-a81f-fa6df8a3bbfe)
-
-
-
-# 🎯 **Use Case**   
+## **Data Exfiltration from Employee** 
+<img src="https://github.com/user-attachments/assets/c85a3561-c4ef-4f1c-a81f-fa6df8a3bbfe" alt="image" style="width:80%;"/>
 
 ## 📚 **Scenario:**  
 An employee named John Doe, working in a sensitive department, was recently placed on a performance improvement plan (PIP). After displaying concerning behavior, management suspects John may be planning to steal proprietary information and leave the company. The investigation involves analyzing activities on John’s corporate device (`windows-target-1`) using Microsoft Defender for Endpoint (MDE).  
@@ -55,7 +51,6 @@ An employee named John Doe, working in a sensitive department, was recently plac
      | project Timestamp, DeviceName, ActionType, FileName, ProcessCommandLine
      ```
 ![image](https://github.com/user-attachments/assets/5d722511-ebf0-44e2-a1cb-19e4c802bc20)
-
 
 
    3. **🌐 Network Exfiltration Check:**  
@@ -183,4 +178,4 @@ An employee named John Doe, working in a sensitive department, was recently plac
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `March 28, 2025`  | `Trevino Parker`   
+| 1.0         | Initial draft                  | `March 28, 2025`  | `Winston Hibbert`   
